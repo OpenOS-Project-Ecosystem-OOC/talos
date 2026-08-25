@@ -1,7 +1,8 @@
 [update-readmes]   Mode: rewrite — migrating to template structure...
 # talos
 
-[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/talos)
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/OpenOS-Project-Ecosystem-OOC/talos) [![KDE Eco](https://img.shields.io/badge/KDE%20Eco-certified-brightgreen?logo=kde&logoColor=white&style=flat-square)](https://eco.kde.org/) [![Blue Angel](https://img.shields.io/badge/Blue%20Angel-DE--UZ%20215-0055a4?style=flat-square)](https://www.blauer-engel.de/en/certification/criteria) [![Energy](https://api.green-coding.io/v1/ci/badge/get?repo=OpenOS-Project-Ecosystem-OOC%2Ftalos&branch=main&workflow=eco-audit.yml)](https://metrics.green-coding.io/ci-index.html)
+
 
 <!-- AI:start:what-it-does -->
 Talos Linux is a minimal, immutable Linux distribution designed specifically for running Kubernetes clusters. It simplifies cluster management by providing a secure, consistent, and automated operating system environment. It is used by infrastructure operators and platform engineers to streamline Kubernetes deployments and ensure system reliability.
